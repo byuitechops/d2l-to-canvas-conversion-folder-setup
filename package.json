@@ -1,7 +1,7 @@
 {
   "name": "d2l-to-canvas-conversion-folder-setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "If the needed folders to run the conversion tool are not already made, then this module will make them.",
   "main": "main.js",
   "dependencies": {
     "canvas-wrapper": "github:byuitechops/canvas-wrapper",
