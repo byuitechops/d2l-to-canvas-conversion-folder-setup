@@ -1,0 +1,25 @@
+{
+  "name": "d2l-to-canvas-conversion-folder-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "canvas-wrapper": "github:byuitechops/canvas-wrapper",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "start": "node ./main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byuitechops/d2l-to-canvas-conversion-folder-setup.git"
+  },
+  "author": "Seth Childers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/byuitechops/d2l-to-canvas-conversion-folder-setup/issues"
+  },
+  "homepage": "https://github.com/byuitechops/d2l-to-canvas-conversion-folder-setup#readme"
+}
